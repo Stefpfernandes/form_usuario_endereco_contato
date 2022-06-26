@@ -40,7 +40,4 @@ Depois que o merge da sua pull request for feito, você pode deletar a sua branc
    Feito  by  <a href="https://www.linkedin.com/in/stefaniepfernandes/"  target="_blank"> Stefanie P. Fernandes </a>
 </h4>
 
-
-
->>>>>>> parent of 715a64e (Update README.md)
  

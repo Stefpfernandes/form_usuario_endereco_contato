@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 # CRUD
-=======
+
 ## CRUD - Cadastro de Usuário, endereço e contato!
 
 ### Integrado no banco de dados com o PHP
